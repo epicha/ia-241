@@ -15,6 +15,6 @@ num_list = [213,312,123,321]
 
 max_number = 0
 for num in num_list:
-    if max_number <= num:
+    if max_item <= num:
         max_item = num
 print(max_item)
