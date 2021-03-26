@@ -15,3 +15,8 @@ for my ia241 labs and final project
 3rd paragraph
 
 ###level 3 heading
+
+**bold**
+*italicize*
+
+>quote
