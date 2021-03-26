@@ -22,3 +22,5 @@ for my ia241 labs and final project
 >quote
 >
 [lab](https://github.com/epicha/ia-241/blob/main/Lab1.py)
+
+![jmu](https://www.jmu.edu/give/_images/its-time-unleashed.jpg)
