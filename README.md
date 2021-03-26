@@ -20,3 +20,5 @@ for my ia241 labs and final project
 *italicize*
 
 >quote
+>
+[lab](https://github.com/epicha/ia-241/blob/main/Lab1.py)
